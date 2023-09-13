@@ -1,0 +1,81 @@
+body, h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Header styles */
+.mainheader {
+    background: #FA944B;
+    color: white;
+    padding: 20px;
+}
+
+/* Main content styles */
+.maincontent {
+    padding: 20px;
+}
+
+/* Footer styles */
+.mainfooter {
+    background: #16222A;
+    background: -webkit-linear-gradient(59deg, #3A7D59, #16222A);
+    background: linear-gradient(59deg, #3A7D59, #16222A);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.mainfooter a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.mainfooter a:hover {
+    color: #FA944B;
+}
+
+.copy {
+    font-size: 12px;
+    padding: 10px;
+    border-top: 1px solid #FFFFFF;
+}
+
+.social-circle li a {
+    display: inline-block;
+    position: relative;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    background-color: #F9F9F9;
+}
+
+.social-circle li i {
+    margin: 0;
+    line-height: 30px;
+    text-align: center;
+    color: #595959;
+    transition: all 0.8s;
+}
+
+.social-circle li a:hover i {
+    transform: rotate(360deg);
+    transition: all 0.2s;
+    color: #fff;
+}
+
+.social-network a.icoFacebook:hover {
+    background-color: #3B5998;
+}
+
+.social-network a.icoLinkedin:hover {
+    background-color: #007bb7;
+}

@@ -1,0 +1,81 @@
+2023-06-29 16:50:01 - File_delete : /var/www/html/upload/1688021226469580/649d28ec3b152.dcm
+2023-06-29 16:50:01 - File_delete : /var/www/html/upload/1688021234142953/649d28f430d62.dcm
+2023-06-29 16:50:01 - Folder_delete: /var/www/html/upload/1688021226469580
+2023-06-29 16:50:01 - Folder_delete: /var/www/html/upload/1688021234142953
+2023-06-29 17:10:01 - File_delete : /var/www/html/upload/1688022291680225/649d2d1574d21.dcm
+2023-06-29 17:10:01 - File_delete : /var/www/html/upload/1688022291680225/649d2d1575b95.dcm
+2023-06-29 17:10:01 - Folder_delete: /var/www/html/upload/1688022291680225
+2023-06-29 18:00:01 - File_delete : /var/www/html/upload/1688025276046879/649d38cb6d75e.dcm
+2023-06-29 18:00:01 - File_delete : /var/www/html/upload/1688025276046879/649d38cb7063e.dcm
+2023-06-29 18:00:01 - Folder_delete: /var/www/html/upload/1688025276046879
+2023-06-29 18:30:01 - File_delete : /var/www/html/upload/1688027166521765/649d4020784c4.dcm
+2023-06-29 18:30:01 - File_delete : /var/www/html/upload/1688027166521765/649d40207943a.dcm
+2023-06-29 18:30:01 - Folder_delete: /var/www/html/upload/1688027166521765
+2023-06-29 18:40:01 - File_delete : /var/www/html/upload/1688027613406623/649d41df39490.dcm
+2023-06-29 18:40:01 - File_delete : /var/www/html/upload/1688027613406623/649d41df3a38c.dcm
+2023-06-29 18:40:01 - File_delete : /var/www/html/upload/1688027694892887/649d4230af1f2.dcm
+2023-06-29 18:40:01 - File_delete : /var/www/html/upload/1688027694892887/649d4230b039f.dcm
+2023-06-29 18:40:01 - Folder_delete: /var/www/html/upload/1688027613406623
+2023-06-29 18:40:01 - Folder_delete: /var/www/html/upload/1688027694892887
+2023-06-29 18:50:01 - File_delete : /var/www/html/upload/1688028464087739/649d4531e2cbc.dcm
+2023-06-29 18:50:01 - Folder_delete: /var/www/html/upload/1688028464087739
+2023-07-03 11:50:01 - File_delete : /var/www/html/upload/1688348497272343/64a22753a7635.dcm
+2023-07-03 11:50:01 - File_delete : /var/www/html/upload/1688348935347386/64a2290902825.dcm
+2023-07-03 11:50:01 - Folder_delete: /var/www/html/upload/1688348497272343
+2023-07-03 11:50:01 - Folder_delete: /var/www/html/upload/1688348935347386
+2023-07-03 12:00:01 - File_delete : /var/www/html/upload/1688349007197314/64a22950efb42.dcm
+2023-07-03 12:00:01 - Folder_delete: /var/www/html/upload/1688349007197314
+2023-07-03 14:50:01 - File_delete : /var/www/html/upload/1688359456339239/64a252222b1e5.dcm
+2023-07-03 14:50:01 - File_delete : /var/www/html/upload/1688359467094773/64a2522ce620a.dcm
+2023-07-03 14:50:01 - Folder_delete: /var/www/html/upload/1688359456339239
+2023-07-03 14:50:01 - Folder_delete: /var/www/html/upload/1688359467094773
+2023-07-03 15:20:01 - File_delete : /var/www/html/upload/1688361554310516/64a25a5420373.dcm
+2023-07-03 15:20:01 - Folder_delete: /var/www/html/upload/1688361554310516
+2023-07-03 18:00:01 - File_delete : /var/www/html/upload/1688370933547745/64a27ef789fa6.dcm
+2023-07-03 18:00:01 - File_delete : /var/www/html/upload/1688370951208154/64a27f090a7bc.dcm
+2023-07-03 18:00:01 - Folder_delete: /var/www/html/upload/1688370933547745
+2023-07-03 18:00:01 - Folder_delete: /var/www/html/upload/1688370951208154
+2023-07-03 18:10:01 - File_delete : /var/www/html/upload/1688371349877461/64a28097a9a5c.dcm
+2023-07-03 18:10:01 - File_delete : /var/www/html/upload/1688371365482462/64a280a7dec31.dcm
+2023-07-03 18:10:01 - File_delete : /var/www/html/upload/1688371397980236/64a280c7bfa62.dcm
+2023-07-03 18:10:02 - Folder_delete: /var/www/html/upload/1688371349877461
+2023-07-03 18:10:02 - Folder_delete: /var/www/html/upload/1688371365482462
+2023-07-03 18:10:02 - Folder_delete: /var/www/html/upload/1688371397980236
+2023-07-04 15:20:01 - File_delete : /var/www/html/upload/1688447546714159/64a3aa3b5fccf.dcm
+2023-07-04 15:20:01 - File_delete : /var/www/html/upload/1688447966834244/64a3abdf940b5.dcm
+2023-07-04 15:20:01 - Folder_delete: /var/www/html/upload/1688447546714159
+2023-07-04 15:20:01 - Folder_delete: /var/www/html/upload/1688447966834244
+2023-07-04 16:30:01 - File_delete : /var/www/html/upload/1688452007132954/64a3bba7d3af5.dcm
+2023-07-04 16:30:01 - File_delete : /var/www/html/upload/1688452103476458/64a3bc0835373.dcm
+2023-07-04 16:30:01 - File_delete : /var/www/html/upload/1688452109801724/64a3bc0e79abc.dcm
+2023-07-04 16:30:01 - File_delete : /var/www/html/upload/1688452133846637/64a3bc2692e02.dcm
+2023-07-04 16:30:01 - File_delete : /var/www/html/upload/1688452145102897/64a3bc31cfd09.dcm
+2023-07-04 16:30:01 - Folder_delete: /var/www/html/upload/1688452007132954
+2023-07-04 16:30:01 - Folder_delete: /var/www/html/upload/1688452103476458
+2023-07-04 16:30:01 - Folder_delete: /var/www/html/upload/1688452109801724
+2023-07-04 16:30:01 - Folder_delete: /var/www/html/upload/1688452133846637
+2023-07-04 16:30:01 - Folder_delete: /var/www/html/upload/1688452145102897
+2023-07-04 18:20:01 - File_delete : /var/www/html/upload/1688458267235948/64a3d41c61b88.dcm
+2023-07-04 18:20:01 - Folder_delete: /var/www/html/upload/1688458267235948
+2023-07-05 12:40:01 - File_delete : /var/www/html/upload/1688524760902384/64a4d7dddae83.dcm
+2023-07-05 12:40:01 - File_delete : /var/www/html/upload/1688524760902384/64a4d7dde1b1a.dcm
+2023-07-05 12:40:01 - Folder_delete: /var/www/html/upload/1688524760902384
+2023-07-05 13:00:01 - File_delete : /var/www/html/upload/168852558517290/64a4db12a7916.dcm
+2023-07-05 13:00:01 - File_delete : /var/www/html/upload/1688525994648305/64a4dcac2537a.dcm
+2023-07-05 13:00:01 - File_delete : /var/www/html/upload/1688525994648305/64a4dcac286f0.dcm
+2023-07-05 13:00:01 - Folder_delete: /var/www/html/upload/168852558517290
+2023-07-05 13:00:01 - Folder_delete: /var/www/html/upload/1688525994648305
+2023-07-05 15:20:01 - File_delete : /var/www/html/upload/1688534331234874/64a4fd3cc645d.dcm
+2023-07-05 15:20:01 - Folder_delete: /var/www/html/upload/1688534331234874
+2023-07-05 17:00:01 - File_delete : /var/www/html/upload/1688540379385409/64a514dcb63e4.dcm
+2023-07-05 17:00:01 - Folder_delete: /var/www/html/upload/1688540379385409
+2023-07-05 17:10:01 - File_delete : /var/www/html/upload/1688540407359902/64a514f877306.dcm
+2023-07-05 17:10:01 - File_delete : /var/www/html/upload/1688540469825817/64a515370669a.dcm
+2023-07-05 17:10:01 - Folder_delete: /var/www/html/upload/1688540407359902
+2023-07-05 17:10:01 - Folder_delete: /var/www/html/upload/1688540469825817
+2023-07-06 11:30:01 - File_delete : /var/www/html/upload/1688606456830773/64a616f963284.dcm
+2023-07-06 11:30:01 - Folder_delete: /var/www/html/upload/1688606456830773
+2023-07-06 11:40:01 - File_delete : /var/www/html/upload/168860733068625/64a61a6344c76.dcm
+2023-07-06 11:40:01 - Folder_delete: /var/www/html/upload/168860733068625
+2023-07-06 12:20:01 - File_delete : /var/www/html/upload/1688609445338207/64a622a5e9e61.dcm
+2023-07-06 12:20:01 - Folder_delete: /var/www/html/upload/1688609445338207
